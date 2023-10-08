@@ -31,7 +31,7 @@ export default function Home() {
 
   return (
     <section id="index-page">
-      <h1 id="blog-header">Our itinerary's</h1>
+      <h1 id="blog-header">Our itinerarys</h1>
       <div className="container">
         <div className="blogsContainer">
           {listItems.map((blog, i) => (

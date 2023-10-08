@@ -4,7 +4,8 @@ import ReactMarkdown from "react-markdown";
 import style from './markdown-styles.module.css';
 import gfm from 'remark-gfm'
 
-function Blog(props) {
+
+function Blog(props: { content: any; }) {
     const {data, content} = matter(props.content);
 
     return (
@@ -12,13 +13,13 @@ function Blog(props) {
             <div className="container">
             <h1 className="text-center">{data.title}</h1>
             <h3>{data.description}</h3>
-            <ReactMarkdown remarkPlugins={[gfm]} className={style.reactmarkdown} children={content} />
+            <ReactMarkdown remarkPlugins={[gfm]} className={style.reactmarkdown}>{content}</ReactMarkdown>
             </div>
         </div>
     );
 }
 
-export const getServerSideProps = async context => {
+export const getServerSideProps = async (context: { params: { blog: any; }; }) => {
 
     const fs = require("fs");
 
