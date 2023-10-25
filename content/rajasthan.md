@@ -40,12 +40,6 @@ img: https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/fc/f9/rajasth
     - ### Ajmeer -> [Pushkar](https://maps.app.goo.gl/wEJ1FWxMW8maMAuJ7) 36mins
 - ## Visit the place and stay there
 
-<!-- # Day 5 (13/12/2023) - Wednesday
-![Map Chittorga](/images/chittorga.jpg)
-- ### Chittorga fort & Jaisalmer travel (optional)
-    - ## [Chittorga fort](https://maps.app.goo.gl/o3kVwnDtLxkvjsseA)
-    - ### Chittorga -> Jaisalmer 10hr+ via bus -->
-
 # Day 5 (13/12/2023) - Wednesday
 ![Map jaifort](/images/jaifort.jpg)
 - ### Jaisalmer visit & Khuri Village travel
