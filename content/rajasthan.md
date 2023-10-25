@@ -40,31 +40,31 @@ img: https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/fc/f9/rajasth
     - ### Ajmeer -> [Pushkar](https://maps.app.goo.gl/wEJ1FWxMW8maMAuJ7) 36mins
 - ## Visit the place and stay there
 
-# Day 5 (13/12/2023) - Wednesday
+<!-- # Day 5 (13/12/2023) - Wednesday
 ![Map Chittorga](/images/chittorga.jpg)
 - ### Chittorga fort & Jaisalmer travel (optional)
     - ## [Chittorga fort](https://maps.app.goo.gl/o3kVwnDtLxkvjsseA)
-    - ### Chittorga -> Jaisalmer 10hr+ via bus
+    - ### Chittorga -> Jaisalmer 10hr+ via bus -->
 
-# Day 6 (14/12/2023) - Thursday
+# Day 5 (13/12/2023) - Wednesday
 ![Map jaifort](/images/jaifort.jpg)
 - ### Jaisalmer visit & Khuri Village travel
     - ## [Fort](https://maps.app.goo.gl/gTYr554tChJKXB4u8), [Gudisar lake](https://maps.app.goo.gl/BPk8HDQEWSF63nu98)
     - ## Jaisalmer -> [Khuri village](https://maps.app.goo.gl/iukFuFBLUo6Quy3Y9)
 
-# Day 7 (15/12/2023) - Friday
+# Day 6 (14/12/2023) - Thursday
 ![Map Khuri](/images/kuri.webp)
 - ### Khuri village & Thar desert
     - ## Take room, visit Khuri village, Thar desert
     - ### Back to Room
 
-# Day 8 (16/12/2023) - Saturday
+# Day 7 (15/12/2023) - Friday
 ![Map Mehrangarh](/images/mehrangarh.jpg)
 - ### Jodhpur visit & Travel to Udaipur(optional)
     - ## [Mehrangarh fort](https://maps.app.goo.gl/TSncYhoiy619Xbbn8), Jeswath thale (Famous food spot)
     - ### To Udaipur
 
-# Day 9 (17/12/2023) - Sunday
+# Day 8 (16/12/2023) - Saturday
 ![Map Raj](/images/udaipur.jpg)
 - ### Udaipur visit
     - ## [Udaipur palace](https://maps.app.goo.gl/aFSWh4kFCbvXoE2w8), [Lake pichola](https://maps.app.goo.gl/SERWHkqWUeZVBasK7)
