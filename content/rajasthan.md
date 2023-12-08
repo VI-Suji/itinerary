@@ -72,9 +72,9 @@ img: https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/fc/f9/rajasth
         - ### 👉 Desert jeep safari 
     - ### 👉 [Bada Bagh](https://maps.app.goo.gl/NoNPiFGTd6ezNp5o8)
 - ### Khuri Village travel
-    - ## 🚌 01.30 PM - Bus to Khuri (call Badal Jii - 8107339097 - when boarding)
-    - ## 🚌 03.00 PM - Rani Ji chai ki dhukaan stop
-    - ## Jaisalmer -> [Khuri village](https://maps.app.goo.gl/iukFuFBLUo6Quy3Y9)
+    - ### 🚌 01.30 PM - Bus to Khuri (call Badal Jii - 8107339097 - when boarding)
+    - ### 🚌 03.00 PM - Rani Ji chai ki dhukaan stop
+    - ### Jaisalmer -> [Khuri village](https://maps.app.goo.gl/iukFuFBLUo6Quy3Y9)
         - ### 🛌 Badal House - link - 8107339097 Badalji
         - ### 👉 Camel Safari
             - ### 🛌 Desert Stay at Badal House 
