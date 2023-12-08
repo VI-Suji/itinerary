@@ -25,15 +25,15 @@ img: https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/fc/f9/rajasth
 
 # Day 2 (10/12/2023) - Sunday
 ![Map Taj](/images/taj.jpeg)
-- ### 🚂 2.30 AM - Reach Agra
-    - ### 🛌 🎒 Host taj Room 
+- ### 🚂 01:10 AM - Reach Agra
+    - ### 🛌 🎒 Cloak Room 
 - ### Visit Agra 
     - ## 👉 [Taj Mahal](https://maps.app.goo.gl/dDJBCD1euYhJs7TV7) - Before Sunrise
     - ## 👉 [Agra Fort](https://maps.app.goo.gl/x7b59zfnTG9k3vtf9)
 
 - ### 🚂 2:50 PM - 22988 Af ali sf express Agra fort To Jaipur  
 - ### 🚂 6:45 PM - Reach Jaipur
-    - ### 🛌 🎒 Gypsy Monkey 
+    - ### 🛌 🎒 Gypsy Monkey (Dormitory) Confirmation Number - 4192529939
 
 
 # Day 3 (11/12/2023) - Monday
@@ -52,6 +52,8 @@ img: https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/fc/f9/rajasth
 
 # Day 4 (12/12/2023) - Tuesday
 ![Map Jaigarh](/images/jaigarh.jpeg)
+- ### Reach Jaipur
+  - ### 🛌 🎒 Cloak Room 
 - ### Jaipur visit & Jaisalmer travel
     - ### 👉 [Jaigarh Fort](https://maps.app.goo.gl/6S7u4Hm98QnYxKsF7)
     - ### 👉  [Amber Palace](https://maps.app.goo.gl/pbbNYkofDBGmUdq86) - ₹200
@@ -59,7 +61,7 @@ img: https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/fc/f9/rajasth
     - ### 🛍️ [Johri Bazaar](https://maps.app.goo.gl/wsSPAyLEbdpgRFaw6), [Bapu Bazaar](https://maps.app.goo.gl/pA9o4yNVnNBP2ia77)
 
 - ### 👉 Panna meena ka kund - stepwell - ₹0
-- ### 🚂 5.45 pm train to Jaisalmer - shalimar express 14646
+- ### 🚂 5.45 pm train to Jaisalmer - shalimar express 14646 
 
 
 # Day 5 (13/12/2023) - Wednesday
@@ -70,15 +72,19 @@ img: https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/fc/f9/rajasth
         - ### 👉 Desert jeep safari 
     - ### 👉 [Bada Bagh](https://maps.app.goo.gl/NoNPiFGTd6ezNp5o8)
 - ### Khuri Village travel
-    - ## Jaisalmer -> [Khuri village](https://maps.app.goo.gl/iukFuFBLUo6Quy3Y9) (1 hr bus ride, After 9:30 AM)
+    - ## 🚌 01.30 PM - Bus to Khuri (call Badal Jii - 8107339097 - when boarding)
+    - ## 🚌 03.00 PM - Rani Ji chai ki dhukaan stop
+    - ## Jaisalmer -> [Khuri village](https://maps.app.goo.gl/iukFuFBLUo6Quy3Y9)
         - ### 🛌 Badal House - link - 8107339097 Badalji
         - ### 👉 Camel Safari
             - ### 🛌 Desert Stay at Badal House 
 
-
 # Day 6 (14/12/2023) - Thursday
 ![Map jaifort](/images/jaifort.jpg)
-- ### Jaisalmer visit
+- ### Badal House + Breakfast
+- ### 12:00 PM Jaisalmer Bus Stop
+    - ### 🎒 Jaisalmer railway cloak room
+    - ### 👉 Jaisalmer Fort ₹50 - auto from railway station
     - ### 👉 [Jaisalmer Fort](https://maps.app.goo.gl/gTYr554tChJKXB4u8) - auto from station
     - ### 👉 [Kothari's Patwon Ki Haveli](https://maps.app.goo.gl/SR4cz2b5Le4UXbQE8)
     - ### 👉 [The Thar Heritage Museum](https://maps.app.goo.gl/7haaeoSDiLteF1ke6)
@@ -93,6 +99,7 @@ img: https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/fc/f9/rajasth
 # Day 7 (15/12/2023) - Friday
 ![Map Mehrangarh](/images/mehrangarh.jpg)
 - ### 🚂 5.00 am Reach Jodhpur
+- ### 🎒  Lugbee (Gorband Guest House) - 05.00AM Check In
     - ### 👉 [Ghanta Ghar](https://maps.app.goo.gl/tzF4o1sYqHTxRkCRA) + Shopping
     - ### 👉 [Toorji Ka Jhalra](https://maps.app.goo.gl/7y7BPeDsjN9zNyCW7)
     - ### 👉 [Jaswant Thada](https://maps.app.goo.gl/DGdf6ZGFWdEvrkX97)
@@ -101,11 +108,13 @@ img: https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/fc/f9/rajasth
     - ### 👉 [Umaid Bhawan Palace](https://maps.app.goo.gl/UEXvayGM9sMG5yHv5)
 - ### 😋 Shahi Samosa near clock tower, Gypsy Thali
 - ### 😋 Dollarpie Pizza - unlimited buffet for 280
-- ### 🚌 10:15 AM - Jain travels regd bus to Udaipur (AC sleeper ₹600)
+- ### 🚌 🎒 10.00 PM -  Lugbee Gorband Guest House Check Out
+- ### 🚌 10:15 PM - Jain travels regd - AC sleeper bus (Jodhpur to Udaipur) 
 
 # Day 8 (16/12/2023) - Saturday
 ![Map Raj](/images/udaipur.jpg)
-- ### 🚌 4.15 AM -  Reach Udaipur bus stop
+- ### 🚌 04.15 AM -  Reach Udiapole bus stop
+- ### 🎒 04.30 AM - Lugbee (Hotel Anupam) ✅ Check In
     - ### 👉 [Karni Mata Temple](https://maps.app.goo.gl/bAS3cQ3TzQ9Jy2VP6) - cable car -  sunrise
     - ### 👉 11:00 AM -  [Saheliyon ki bari](https://maps.app.goo.gl/DipH9w9wjGMSUBUu6) (1 hr) ₹5
     - ### 👉 12:00 PM - [City palace](https://maps.app.goo.gl/ipfPUbw911BTFkMy7) (3 hrs) ₹30
@@ -121,8 +130,8 @@ img: https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/fc/f9/rajasth
 
 # Day 9 (17/12/23) - Sunday
 ![Map Raj](/images/ahemedabad.jpg)
-- ### 🚂 3.30 AM - 12981 JP ASV SUPERFAST To Ahmedabad
-- ### 🚂 8.30 AM - Reach Ahmedabad
+- ### 🎒 03.00 AM - Lugbee Checkout (Hotel Anupam)
+- ### 🚂 03.30 AM - 12981 JP ASV SUPERFAST (UDZ - Udaipur City to ASV - Ahmedabad) 
     - ### 👉 9.30 AM [Sabarmati](https://maps.app.goo.gl/DaLhHcy2Lg6ory6M8) riverfront (1 hr)
     - ### 👉 11:00 AM [Gandhi ashram](https://maps.app.goo.gl/VH6Ub7VzHw7Y2Uu67) (1 hr)
     - ### 👉 [Adalaj stepwell](https://maps.app.goo.gl/xA6WpnPmWdey8CVn7) (2 hrs)
