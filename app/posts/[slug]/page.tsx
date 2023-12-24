@@ -52,7 +52,7 @@ const PostPage = (props: any) => {
       />
     </div>
             <div className="text-left bg-white-800 rounded-md text-black">
-              {arr.points.map((point, index) => (
+              {arr.points.map((point : any, index: any) => (
                 <div key={index}
                   className={`bg-white-800 rounded-md text-black ${point !== '' ? '' : 'hidden'}`}>
                   {point !== '' && point.startsWith('###') && <h3>{point.replace("-", "").replace("###", "")}</h3>}
