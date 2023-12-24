@@ -1,44 +1,15 @@
-"use client"
+import getPostMetadata from "../components/getPostMetadata";
+import PostPreview from "../components/PostPreview";
 
-import React, { useEffect, useState } from 'react';
-import BlogPost from '@/components/Blog/Blog';
-import matter from 'gray-matter';
-
-
-export default function Home() {
-  const [data, setData] = useState<string[]>([]);
-
-  useEffect(() => {
-    const fetchData = async () => {
-      try {
-        const response = await fetch('/api/readFiles'); // Use the API route
-        if (response.ok) {
-          const result = await response.json();
-          setData(result.data);
-        } else {
-          console.error('Failed to fetch data');
-        }
-      } catch (error) {
-        console.error('Error fetching data:', error);
-      }
-    };
-
-    fetchData();
-  }, []);
-
-  const realData = data.map((blog) => matter(blog));
-  const listItems = realData.map((listItem) => listItem.data);
+const HomePage = () => {
+  const postMetadata = getPostMetadata();
+  const postPreviews = postMetadata.map((post) => (
+    <PostPreview key={post.slug} {...post} />
+  ));
 
   return (
-    <section id="index-page">
-      <h1 id="blog-header">Our Itinerary</h1>
-      <div className="container">
-        <div className="blogsContainer">
-          {listItems.map((blog, i) => (
-            <BlogPost key={blog.slug || i} blog={blog} />
-          ))}
-        </div>
-      </div>
-    </section>
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-4">{postPreviews}</div>
   );
-}
+};
+
+export default HomePage;
