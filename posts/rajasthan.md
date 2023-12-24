@@ -136,7 +136,7 @@ day: Day 9 (Ahmedabad)
 company_name: Ahmedabad
 icon: /images/ahemedabad.jpg
 iconBg: /images/gandhi.webp
-date: 16/Dec/2023
+date: 17/Dec/2023
 ---
 
 ### 🎒 03.00 AM - Lugbee Checkout (Hotel Anupam)
